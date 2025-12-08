@@ -1,1 +1,12 @@
-{"message":"success","data":{"comment":"Descubra a nova versão","md5":"","code":0,"url":"https:\/\/raw.githubusercontent.com\/zoe684773432\/sol_static\/main\/SolTV_Box_release_20251208.apk","isupdate":false,"version":20251208},"code":0} 
+{
+  "message": "success",
+  "data": {
+    "comment": "Descubra a nova versão",
+    "md5": "",
+    "code": 0,
+    "url": "https://raw.githubusercontent.com/zoe684773432/sol_static/main/SolTV_Box_release_20251208.apk",
+    "isupdate": false,
+    "version": 20250818
+  },
+  "code": 0
+}
